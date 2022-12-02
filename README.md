@@ -3,7 +3,7 @@ Bean Machine With Nepali Food
 
 # A Nepali Bean Machine for QBCore Framework
 
-Preview *outdated* : 
+Preview : https://www.youtube.com/watch?v=IaP_SpNhDLc&t=1s
 
 ## Insert into @qb-smallresources --> server --> consumables.lua
 ```
